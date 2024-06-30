@@ -21,7 +21,7 @@ def initialize_soundtrack(soundtrack_path):
 
   
 if __name__ == "__main__":
-    soundtrack_track = "path_to_your_soundtrack.mp3"
+    #soundtrack_track = "soundtrack.mp3"
     initialize_soundtrack(soundtrack_path)
     
     while True:
