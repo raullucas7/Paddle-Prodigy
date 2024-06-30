@@ -59,3 +59,22 @@ def score_update(pen, score_a, score_b):
     pen.clear()
     pen.write(f"Player A: {score_a}  Player B: {score_b}", align="center", font=("Georgia", 24, "italic"))
 
+# Paddle mechanics
+def paddle_up (paddle):
+    
+    y = paddle.ycor()
+    
+    if  y < 250:
+        y += 20
+    
+    paddle.sety(y)
+    
+def paddle_down(paddle):
+    
+    y = paddle.ycor()
+    
+    if  y > -240:
+        y -= 20
+    
+    paddle.sety(y)
+
