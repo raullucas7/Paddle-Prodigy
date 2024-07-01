@@ -3,7 +3,6 @@ This project is a classic, yet simple pong game implemented using Python and its
 
 # Installation
 Clone the repository
-Install uv with our standalone installers, or from [PyPI](https://pypi.org/project/uv/):
 
 ```shell
 git clone https://github.com/yourusername/paddle-prodigy.git
