@@ -29,4 +29,5 @@ python music_handler.py
 ```
 
 # Development Status
-This project is currently in development. Future updates will include more features, improved gameplay mechanics, and enhanced graphics.
+This project is currently in development. Future updates will include more features, more immersive, improved gameplay mechanics, and enhanced graphics.
+
